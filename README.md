@@ -8,12 +8,6 @@ Let me know if you want a downloadable README.md or to turn this into a poster/s
 
 
 
-You said:
-give answers only
-
-
-ChatGPT said:
-Sure! Here's the updated content:
 
 🧾 Basic Details
 👥 Team Name: Byte Bakers
@@ -45,7 +39,9 @@ full details
 ChatGPT said:
 Here is the full updated README for your project Chapati Cook Analyzer, including Rifa Fathima as the third team member and all relevant sections:
 
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="3188" height="1202" alt="frame (3)" src="<img width="798" height="859" alt="image" src="<img width="1912" height="786" alt="image" src="https://github.com/user-attachments/assets/10eac929-9906-4f59-b075-a8192c51d007" />
+" />
+" />
 🫓 Chapati Cook Analyzer – AI Chef That Judges Your Rotis
 🧾 Basic Details
 👥 Team Name: Byte Bakers
